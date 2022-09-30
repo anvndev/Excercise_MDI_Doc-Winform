@@ -1,6 +1,6 @@
 # Excercise_.Net_MDI-main
 <br> Winform </br>
-/--------------------------------------/
+--------------------------------------
 # Star
 
             if (!CheckExistForm("BT_ListBox"))
